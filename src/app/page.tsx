@@ -64,19 +64,19 @@ export default function LandingPage() {
         {
           text: "Get Directions",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/two-stylish-shop-assistants-elegantly-dressed-working-menswear-store_613910-19747.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434042645-u1yqevmj.jpg"
       mediaAnimation="slide-up"
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/elderly-client-looking-formal-blazers-shopping-mall_482257-99066.jpg",          alt: "Customer 1"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434082811-ka9iiyje.jpg",          alt: "Customer 1"},
         {
-          src: "http://img.b2bpic.net/free-photo/full-length-portrait-man-suit-using-smartphone_171337-19117.jpg",          alt: "Customer 2"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434102257-7uxs5pfo.jpg",          alt: "Customer 2"},
         {
-          src: "http://img.b2bpic.net/free-photo/elegantly-dressed-bearded-shop-assistant-with-standing-near-mannequin-menswear-store_613910-19737.jpg",          alt: "Customer 3"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434111922-qqweyv2t.jpg",          alt: "Customer 3"},
         {
-          src: "http://img.b2bpic.net/free-photo/middle-eastern-client-wheelchair-examining-clothes-racks-retail-store_482257-118472.jpg",          alt: "Customer 4"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434119612-2bkt95y5.jpg",          alt: "Customer 4"},
         {
-          src: "http://img.b2bpic.net/free-photo/owner-getting-ready-reopening_23-2149142189.jpg",          alt: "Customer 5"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434133798-3gk1a500.jpg",          alt: "Customer 5"},
       ]}
       marqueeItems={[
         {
@@ -98,7 +98,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Style & Elegance"
       description="Located in the heart of Dhariwal, White Eagle offers a curated selection of luxury multi-brand apparel. From formal wear to casual chic, we cater to your unique style needs with professional service and top-tier quality."
-      imageSrc="http://img.b2bpic.net/free-photo/tailor-student-choosing-design-create-tailored-clothes-custom-made-learning-manufacturing-process-atelier-experienced-craftsman-teaching-apprentice-design-items-handheld-shot_482257-65211.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbmshfbE57UU5YZdy2p3HrJZVy/uploaded-1778434159609-pkbg8vao.jpg"
     />
   </div>
 
